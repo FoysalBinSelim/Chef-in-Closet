@@ -1,7 +1,7 @@
 # Chef in CLoset
 ** A web app that shows food recipes.
 
-### What I used?  - ** React framework, Spoonacualr API, Styled Components & Framer-motion **
+### What I used?  - ** React, Spoonacualr API, Styled Components & Framer-motion **
 
 # Live Project:  https://chef-in-closet.netlify.app/
 
